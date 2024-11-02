@@ -1,11 +1,9 @@
-Title:  Autocomplete and Autocorrect Data Analytics on Fraud Detection
+## Title:  Autocomplete and Autocorrect Data Analytics on Fraud Detection
 
-Description: 
+## Description: 
 
 This project explores the efficiency and accuracy of autocomplete and autocorrect algorithms within natural language processing (NLP) to enhance user experience in text prediction.
 
 The dataset used in this project is sourced from Kaggle.
 
-Link:
-
-[Credit Card Fraud Detection Dataset from Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+[Link](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
